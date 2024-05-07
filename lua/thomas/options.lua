@@ -1,3 +1,6 @@
+-- Set the language to english
+vim.api.nvim_exec ('language en_US', true)
+
 vim.g.mapleader = " "
 
 vim.opt.nu = true
@@ -17,10 +20,7 @@ vim.opt.incsearch = true
 vim.opt.swapfile = false
 vim.opt.backup = false
 vim.opt.undofile = true
--- Comment this line
 vim.opt.undodir = os.getenv("HOME") .. "/.vim/undodir"
--- And uncomment this one in case you use Windows
--- vim.opt.undodir = os.getenv("UserProfile") .. /".vim/undodir" 
 
 vim.opt.scrolloff = 8
 vim.opt.signcolumn = "yes"
