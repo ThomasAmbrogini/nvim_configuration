@@ -1,0 +1,33 @@
+[submodule "pack/nvim/start/cmp"]
+	path = pack/nvim/start/cmp
+	url = https://github.com/hrsh7th/nvim-cmp.git
+[submodule "pack/nvim/start/cmp-buffer"]
+	path = pack/nvim/start/cmp-buffer
+	url = https://github.com/hrsh7th/cmp-buffer.git
+[submodule "pack/nvim/start/cmp-cmdline"]
+	path = pack/nvim/start/cmp-cmdline
+	url = https://github.com/hrsh7th/cmp-cmdline.git
+[submodule "pack/nvim/start/cmp-nvim-lsp"]
+	path = pack/nvim/start/cmp-nvim-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp.git
+[submodule "pack/nvim/start/cmp-path"]
+	path = pack/nvim/start/cmp-path
+	url = https://github.com/hrsh7th/cmp-path.git
+[submodule "pack/nvim/start/nvim-lspconfig"]
+	path = pack/nvim/start/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
+[submodule "pack/nvim/start/plenary"]
+	path = pack/nvim/start/plenary
+	url = https://github.com/nvim-lua/plenary.nvim.git
+[submodule "pack/nvim/start/rosepine"]
+	path = pack/nvim/start/rosepine
+	url = https://github.com/rose-pine/neovim.git
+[submodule "pack/nvim/start/telescope"]
+	path = pack/nvim/start/telescope
+	url = https://github.com/nvim-telescope/telescope.nvim.git
+[submodule "pack/nvim/start/treesitter"]
+	path = pack/nvim/start/treesitter
+	url = https://github.com/nvim-treesitter/nvim-treesitter.git
+[submodule "pack/nvim/start/cmp-lsp"]
+	path = pack/nvim/start/cmp-lsp
+	url = https://github.com/hrsh7th/cmp-nvim-lsp.git
